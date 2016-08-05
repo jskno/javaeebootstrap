@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DI/DI.iml" filepath="$PROJECT_DIR$/DI/DI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DI2/DI2.iml" filepath="$PROJECT_DIR$/DI2/DI2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyOwnAnnotation/MyOwnAnnotation.iml" filepath="$PROJECT_DIR$/MyOwnAnnotation/MyOwnAnnotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyOwnAnnotation2/MyOwnAnnotation2.iml" filepath="$PROJECT_DIR$/MyOwnAnnotation2/MyOwnAnnotation2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RMI/RMI.iml" filepath="$PROJECT_DIR$/RMI/RMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaeebootstrap.iml" filepath="$PROJECT_DIR$/javaeebootstrap.iml" />
+    </modules>
+  </component>
+</project>
